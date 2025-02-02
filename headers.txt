@@ -1,0 +1,24 @@
+Content-Type
+application/json; charset=UTF-8
+Vary
+Origin
+Vary
+X-Origin
+Vary
+Referer
+Content-Encoding
+gzip
+Date
+Sun, 02 Feb 2025 19:41:00 GMT
+Server
+ESF
+X-XSS-Protection
+0
+X-Frame-Options
+SAMEORIGIN
+X-Content-Type-Options
+nosniff
+Alt-Svc
+h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Transfer-Encoding
+chunked
